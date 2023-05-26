@@ -1,0 +1,14 @@
+{
+  "name": "segment_anything",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "bla": "echo blah",
+    "dev": "node dev.js",
+    "start": "node app.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
